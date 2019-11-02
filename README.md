@@ -1,2 +1,2 @@
 # machine-learning
-basic use of different classifiers/regressors
+This contains the code of different classifiers/regressors and ml projects
